@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Changed mouse on workstation 005",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-02-02T06:47:55.161Z"
+    },
+    {
+      "id": 3,
+      "message": "Changed keyboard on workstation 007",
+      "attention": true,
+      "tech": "Dean Koontz",
+      "date": "2020-02-02T08:29:32.445Z"
+    },
+    {
+      "message": "Fixed mouse in marketing department 003",
+      "attention": false,
+      "tech": "Travis Green",
+      "date": "2020-02-02T02:10:57.546Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Dean",
+      "lastName": "Koontz",
+      "id": 4
+    },
+    {
+      "firstName": "jill",
+      "lastName": "scott",
+      "id": 5
+    }
+  ]
+}
